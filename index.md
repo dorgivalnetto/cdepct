@@ -4,6 +4,7 @@
 O 1º Congresso da Especialização em Docência para a Educação Profissional, Científica e Tecnológica (I  CDEPCT )  será realizado no IFMS Campus Corumbá, no período de  06 a 09 Novembro de 2019, é um fórum local de discussão de pesquisadores que irão apresentar e discutir as mais recentes inovações, tendências, resultados, experiências e preocupações em várias perspectivas sobre a Docência para a Educação Profissional Científica e Tecnológica.</p>
 
 <html>
+  <title>1º Congresso da Especialização em Docência para a Educação Profissional, Científica e Tecnológica (I CDEPCT)</title>
 <b>Chamada para Submissão</b>
 <p align="justify">
 Temos o prazer de convidá-los para enviar seus artigos ao 1º CDEPCT. Todas as submissões serão analisadas com base na relevância, originalidade, importância e clareza.</p>
